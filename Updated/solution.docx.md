@@ -7,38 +7,24 @@ Introducing 'Blindfolded,' a challenge where perception is key. Delve into two l
 
       
 **Step-1:**  You will see a login page do auth bypass with some auth bypass payload .    
+<img width="1917" height="982" alt="image" src="https://github.com/user-attachments/assets/1af2355f-5491-4e89-86b2-a88ca75bbc87" />
 
-![][image1] 
-
-    
 
 **Step-2:** You have to put sql payload  .   
 
- 
 
 **Username:** admin
 
 **Password:** "1"="1"/\*
 
- 
-
-You will redirect to dashboard section .
-
-  
-
-
-  
-
+<img width="1917" height="988" alt="image" src="https://github.com/user-attachments/assets/90a06311-53f1-431a-896a-0522b64008dd" />
 
  
 
-      
-**Address:** Office 405, Pearl Plaza, opp. Andheri Station Road, Railway Colony, Andheri West-58 **Website:**     
-[https\://www\.hacktify.in](https://www.hacktify.in/)    
+You will redirect to dashboard section  
 
-![][image2]
+<img width="1917" height="983" alt="image" src="https://github.com/user-attachments/assets/849f0ab8-7c12-4512-a024-843bb8d6de52" />
 
- 
 
 **Step-3:** Here some there vulnerability present .   You will see two section one is input and other is pdf view              When you try to see pdf 1 and 2 then at bottom you will see hint .
 
@@ -51,12 +37,8 @@ Pdf3→9
 It’s mean here is some pdf which have name pdf99 which have the flag.
 
    
+<img width="1917" height="1042" alt="Screenshot 2026-11-14 202011" src="https://github.com/user-attachments/assets/a57b315a-89d0-4ea9-9a7c-d2fbd04a045c" />
 
-      
-**Address:** Office 405, Pearl Plaza, opp. Andheri Station Road, Railway Colony, Andheri West-58 **Website:**     
-[https\://www\.hacktify.in](https://www.hacktify.in/)    
-
-      
       
 **Flag: flag{S3\_p0\$1t\!v3\!\_D@ta}**
 
@@ -64,36 +46,6 @@ It’s mean here is some pdf which have name pdf99 which have the flag.
 
 
   
-
-
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-  
-
-   
-
-      
-**Address:** Office 405, Pearl Plaza, opp. Andheri Station Road, Railway Colony, Andheri West-58 **Website:**     
-[https\://www\.hacktify.in](https://www.hacktify.in/)    
 
 [image1]: <data:image/png;base64,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>
 
