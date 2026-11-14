@@ -15,7 +15,7 @@ Introducing 'Blindfolded,' a challenge where perception is key. Delve into two l
 
 **Username:** admin
 
-**Password:** "1"="1"/\*
+**Password:** ' OR '1'='1' -- 
 
 <img width="1917" height="988" alt="image" src="https://github.com/user-attachments/assets/90a06311-53f1-431a-896a-0522b64008dd" />
 
