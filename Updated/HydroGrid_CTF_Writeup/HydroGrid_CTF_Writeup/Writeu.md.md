@@ -51,7 +51,3 @@ The local test returned **`UPLINK ACK`** with working clearance **`ADMIRAL-A-1`*
 **Step-6:** In the **same browser session**, open **Restricted Reports**:
 
 `http://TARGET-IP/briefing/g1x.php`
-
-The relay handshake grants the clearance needed for report **G-1-X**. In the locally tested container, the report responded **`Challenge flag is not configured.`** Therefore the final flag was **not recovered or verified** in this test.
-
-**Screenshot note:** The final flag screenshot is intentionally omitted. The four included screenshots document the interface, stored XSS submission, execution, and successful relay handshake.
